@@ -13,4 +13,4 @@ dataframe: two dimensional table
 Manipulating the dataframe is a little confusing at first, especially bool subsets subset_df = df[df['Age'] > 28]. 
 
 ## Additional resources used 
-chatGPT
+chatGPT, my mentor Shwetha
