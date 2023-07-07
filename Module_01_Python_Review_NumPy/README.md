@@ -7,10 +7,11 @@
 * Matrix operations
 
 ## Main takeaways from doing today's assignment
-<To be filled>
-
+Learned what NumPy is: a Python library that allows manipulating numerical data as multidimensional arrays.
+and functions to manipulate NumPy Arrays
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+I was stuck on question 4 because I used [0, 2] instead of [[0, 2]]
+It was very helpful to learn how to use functions through documentation
 
 ## Additional resources used 
-<To be filled>
+chatGPT and my mentor Shwetha
