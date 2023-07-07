@@ -7,11 +7,10 @@
 * Operations on Tabular data
 
 ## Main takeaways from doing today's assignment
-<To be filled>
-
+learned what Series in Pandas is: one dimensional labeled data
+dataframe: two dimensional table 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Manipulating the dataframe is a little confusing at first, especially bool subsets subset_df = df[df['Age'] > 28]. 
 
 ## Additional resources used 
-<To be filled>
-
+chatGPT
