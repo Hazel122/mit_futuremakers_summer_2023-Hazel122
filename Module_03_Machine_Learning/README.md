@@ -9,10 +9,17 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+There is an optimal number of epochs. \
+Two types in supervised learning: regression and classification \
+useful libraries: \
+NumPy: For any work with matrices, especially math operations\
+SciPy: Scientific and technical computing\
+Matplotlib: Data visualisation\
+IPython: Interactive console for Python\
+Sympy: Symbolic mathematics\
+Pandas: Data handling, manipulation, and analysis
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
-
+Bonus question training a self-choice model is interesting
 ## Additional resources used 
-<To be filled>
+chatGPT and my mentor Shwetha's help
