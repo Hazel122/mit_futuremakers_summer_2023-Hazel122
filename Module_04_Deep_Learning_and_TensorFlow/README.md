@@ -7,10 +7,10 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Accuracy on the test dataset being smaller than training dataset indicates overfitting
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+The fun fact that a pastry machine learning model research can be used during cancer research is awesome. 
 
 ## Additional resources used 
-<To be filled>
+Google search
