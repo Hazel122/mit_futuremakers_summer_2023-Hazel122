@@ -8,10 +8,10 @@
 * Computing accuracy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+sigmoid activation function is for only 2 classes, softmax can be used for multiple classes. 
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Understanding the vanishing gradient problem is challenging but interesting.
 
 ## Additional resources used 
-<To be filled>
+Head mentor Caleb's help, my mentor Shwetha's help, chatGPT
