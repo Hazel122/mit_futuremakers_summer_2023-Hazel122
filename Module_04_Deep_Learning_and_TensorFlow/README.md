@@ -13,4 +13,4 @@ Accuracy on the test dataset being smaller than training dataset indicates overf
 The fun fact that a pastry machine learning model research can be used during cancer research is awesome. 
 
 ## Additional resources used 
-Google search
+Google search, my mentor Shwetha's help
