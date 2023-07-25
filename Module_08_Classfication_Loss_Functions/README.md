@@ -7,10 +7,12 @@
 * Sparse Categorical Cross-Entropy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Three classification loss functions: Binary Crossentropy, categorical cross-entropy, and sparse cross entropy.
+
+tf.reduced_sum() function
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Learning the relationship between different functions
 
 ## Additional resources used 
-<To be filled>
+chatGPT
