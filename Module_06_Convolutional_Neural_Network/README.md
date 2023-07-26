@@ -9,10 +9,13 @@
 * Batch norm
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Divide data by 255 to normalize data: lower computational complexity
+* Visualizing filters
+* Pooling: downsampling
+* dropout: prevent overfitting
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Being able to visualize filters is cool
 
 ## Additional resources used 
-<To be filled>
+chatGPT, my mentor Shwetha's help
