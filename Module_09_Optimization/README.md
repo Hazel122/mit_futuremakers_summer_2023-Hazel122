@@ -7,10 +7,10 @@
 * Sparse Categorical Cross-Entropy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Three types of gradient descent: batch gradient descent, stochastic gradient descent, and mini-batch gradient descent.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+It is hard to relate optimization with activation functions since they both seems abstract still.
 
 ## Additional resources used 
-<To be filled>
+chatGPT.
