@@ -8,10 +8,11 @@
 * Advanced activation functions: Swish, GeLU, SeLU
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Mathematical definition of Sigmoid, Tanh, ReLU. 
+* ReLu solved vanishing gradient problem
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+The AI-generated meme is fu
 
 ## Additional resources used 
-<To be filled>
+chatGPT
